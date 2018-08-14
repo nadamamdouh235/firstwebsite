@@ -1,0 +1,13 @@
+body
+{
+background-image:
+url("../images/chemistry.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1{color:#78281F;
+  text-align: center;
+  font-family: times new roman;}
+
+h2{color:#1B2631;}
+ul{color:#5B2C6F;}
